@@ -12,7 +12,7 @@ const FriendList = ({ friends }) => {
                 avatar={friend.avatar}
             />
             </li>
-        ))}
+        ))} 
     </ul>  
     )
     
